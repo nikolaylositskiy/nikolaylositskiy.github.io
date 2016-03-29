@@ -26,6 +26,16 @@
                             <a href="https://github.com/{{ site.github_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
                         </li>
                         {% endif %}
+                        {% if site.upwork_username %}
+                        <li>
+                            <a href="https://www.upwork.com/freelancers/{{ site.upwork_username }}" class="btn-social btn-outline">Up</a>
+                        </li>
+                        {% endif %}
+                        {% if site.linkedin_username %}
+                        <li>
+                            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                        </li>
+                        {% endif %}
                     </ul>
                 </div>
                 <div class="footer-col col-md-4">

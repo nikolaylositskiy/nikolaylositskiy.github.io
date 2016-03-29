@@ -7,22 +7,20 @@
 
 # Site settings
 title: Start Bootstrap
-email: niklos2506@gmail.com
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Web Developer - Graphic Artist - User Experience Designer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: LositskiyNick
-github_username:  nikolaylositskiy
-facebook_username: nikolay.lositskiy
-upwork_username: ~010ec093cc64583f0b
-linkedin_username: lositskiy-nikolay-899548a3
+twitter_username: SBootstrap
+github_username:  BlackrockDigital
+facebook_username: StartBootstrap
 
 # Address information
 address_street: 3034 Melrose Place
-address_city: Kharkiv
+address_city: Beverly Hills
 address_state: CA
 address_zip: 90201
 
