@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
+title: Nikolay Lositskiy
 email: niklos2506@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
+  Ruby on Rails developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
@@ -21,10 +21,9 @@ upwork_username: ~010ec093cc64583f0b
 linkedin_username: lositskiy-nikolay-899548a3
 
 # Address information
-address_street: 3034 Melrose Place
 address_city: Kharkiv
-address_state: CA
-address_zip: 90201
+address_state: Ukraine
+
 
 # Build settings
 markdown: kramdown
