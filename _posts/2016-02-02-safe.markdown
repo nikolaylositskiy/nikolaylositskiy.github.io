@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Safe"
-date:   2016-02-02 15:08:10 -0500
-img: img/portfolio/safe.png
+title:  Enviaya
+date:   2016-03-01
+img: img/portfolio/enviaya.png
+thumbnail: img/portfolio/enviaya-thumbnail.png
 modalID: modalSafe
-category: Design
+category: Web Development
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+[enviaya.com.mx][flat-icons-link]
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+[flat-icons-link]: https://enviaya.com.mx
